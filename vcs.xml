@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/lynneq/AndroidCameraDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xalexchen/android_photoIntent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\GPNW46\AndroidStudioProjects" />
